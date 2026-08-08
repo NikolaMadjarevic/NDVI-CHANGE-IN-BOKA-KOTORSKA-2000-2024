@@ -36,7 +36,7 @@ The project processes Landsat NDVI composites to evaluate environmental dynamics
 ## 🚀 How to Run the Script
 
 1. Open the [Google Earth Engine Code Editor](https://code.earthengine.google.com/).
-2. Create a new script and paste the contents of `script.js` (or your code file name).
+2. Create a new script and paste the contents of `geeNDVI_code.js`.
 3. Click **Run**.
 4. Use the UI panel on the left to select different historical years (2000–2024) and interactively explore NDVI changes across Boka Kotorska.
 
