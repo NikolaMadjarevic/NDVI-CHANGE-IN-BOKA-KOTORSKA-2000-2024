@@ -61,13 +61,13 @@ The exported rasters were further used for cartographic visualization
 and analysis in ArcGIS Pro.
 
 ### NDVI 2000 and 2024
-![NDVI 2000 and 2024](images/ndvi_2000.png)
+![NDVI 2000 and 2024](images/ndvi2000_2024.jpg)
 
 ### NDVI Change
-![NDVI Change](images/ndvi_difference.png)
+![NDVI Change](images/ndvi_diff.jpg)
 
 ### GEE Application
-![GEE Application](images/.png)
+![GEE Application](ndvi_app.jpg)
 ---
 
 ## 👤 Author
